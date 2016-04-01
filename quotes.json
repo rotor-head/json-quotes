@@ -3,5 +3,10 @@
   { "id": 1, "text": "This is a second quote.", "author": "Author Name" },
   { "id": 2, "text": "This is a third quote.", "author": "Author Name" },
   { "id": 3, "text": "This is a fourth quote.", "author": "Author Name" },
-  { "id": 4, "text": "This is a fifth quote.", "author": "Author Name" }
+  { "id": 4, "text": "This is a fifth quote.", "author": "Author Name" },
+  { "id": 5, "text": "This is a sixth quote.", "author": "Author Name" },
+  { "id": 6, "text": "This is a seventh quote.", "author": "Author Name" },
+  { "id": 7, "text": "This is a eigth quote.", "author": "Author Name" },
+  { "id": 8, "text": "This is a nineth quote.", "author": "Author Name" },
+  { "id": 9, "text": "This is a tenth quote.", "author": "Author Name" }
 ]
