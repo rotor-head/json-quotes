@@ -1,3 +1,1 @@
-[
-  {"coord":{"lon":-97.68,"lat":30.63},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"cmc stations","main":{"temp":82.92,"pressure":1015,"humidity":24,"temp_min":80.6,"temp_max":84.2},"wind":{"speed":9.17,"deg":200},"clouds":{"all":1},"dt":1460063700,"sys":{"type":3,"id":2557,"message":0.0034,"country":"US","sunrise":1460031047,"sunset":1460076867},"id":4693342,"name":"Georgetown","cod":200}
-]
+{"coord":{"lon":-97.68,"lat":30.63},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"cmc stations","main":{"temp":82.92,"pressure":1015,"humidity":24,"temp_min":80.6,"temp_max":84.2},"wind":{"speed":9.17,"deg":200},"clouds":{"all":1},"dt":1460063700,"sys":{"type":3,"id":2557,"message":0.0034,"country":"US","sunrise":1460031047,"sunset":1460076867},"id":4693342,"name":"Georgetown","cod":200}
