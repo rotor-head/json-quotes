@@ -1,12 +1,12 @@
 [
-  { "id": 0, "text": "This is a quote.", "author": "Author Name" },
-  { "id": 1, "text": "This is a second quote.", "author": "Author Name" },
-  { "id": 2, "text": "This is a third quote.", "author": "Author Name" },
-  { "id": 3, "text": "This is a fourth quote.", "author": "Author Name" },
-  { "id": 4, "text": "This is a fifth quote.", "author": "Author Name" },
-  { "id": 5, "text": "This is a sixth quote.", "author": "Author Name" },
-  { "id": 6, "text": "This is a seventh quote.", "author": "Author Name" },
-  { "id": 7, "text": "This is a eigth quote.", "author": "Author Name" },
-  { "id": 8, "text": "This is a nineth quote.", "author": "Author Name" },
-  { "id": 9, "text": "This is a tenth quote.", "author": "Author Name" }
+  { "id": 0, "text": "This is the first quote.", "author": "Author #1 Name" },
+  { "id": 1, "text": "This is the second quote.", "author": "Author #2 Name" },
+  { "id": 2, "text": "This is the third quote.", "author": "Author #3 Name" },
+  { "id": 3, "text": "This is the fourth quote.", "author": "Author #4 Name" },
+  { "id": 4, "text": "This is the fifth quote.", "author": "Author #5 Name" },
+  { "id": 5, "text": "This is the sixth quote.", "author": "Author #6 Name" },
+  { "id": 6, "text": "This is the seventh quote.", "author": "Author #7 Name" },
+  { "id": 7, "text": "This is the eigth quote.", "author": "Author #8 Name" },
+  { "id": 8, "text": "This is the nineth quote.", "author": "Author #9 Name" },
+  { "id": 9, "text": "This is the tenth quote.", "author": "Author #10 Name" }
 ]
