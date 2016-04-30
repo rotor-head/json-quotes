@@ -1,12 +1,12 @@
 [
-  { "id": 0, "text": "This is the first quote.", "author": "Author #1 Name" },
-  { "id": 1, "text": "This is the second quote.", "author": "Author #2 Name" },
-  { "id": 2, "text": "This is the third quote.", "author": "Author #3 Name" },
-  { "id": 3, "text": "This is the fourth quote.", "author": "Author #4 Name" },
-  { "id": 4, "text": "This is the fifth quote.", "author": "Author #5 Name" },
-  { "id": 5, "text": "This is the sixth quote.", "author": "Author #6 Name" },
-  { "id": 6, "text": "This is the seventh quote.", "author": "Author #7 Name" },
-  { "id": 7, "text": "This is the eigth quote.", "author": "Author #8 Name" },
-  { "id": 8, "text": "This is the nineth quote.", "author": "Author #9 Name" },
-  { "id": 9, "text": "This is the tenth quote.", "author": "Author #10 Name" }
+  { "id": 0, "text": "The important thing is not to stop questioning; curiosity has its own reason for existing..", "author": "Albert Einstein" },
+  { "id": 1, "text": "It is a miracle that curiosity survives formal education.", "author": "Albert Einstein" },
+  { "id": 2, "text": "Science without religion is lame, religion without science is blind.", "author": "Albert Einstein" },
+  { "id": 3, "text": "Everything that is really great and inspiring is created by the individual who can labor in freedom.", "author": "Albert Einstein" },
+  { "id": 4, "text": "Everything should be made as simple as possible, but not one bit simpler.", "author": "Albert Einstein" },
+  { "id": 5, "text": "Insanity: doing the same thing over and over again and expecting different results.", "author": "Albert Einstein" },
+  { "id": 6, "text": "Not everything that can be counted counts, and not everything that counts can be counted.", "author": "Albert Einstein" },
+  { "id": 7, "text": "Reality is merely an illusion, albeit a very persistent one.", "author": "Albert Einstein" },
+  { "id": 8, "text": "Great spirits have always encountered violent opposition from mediocre minds.", "author": "Albert Einstein" },
+  { "id": 9, "text": "If a cluttered desk signs a cluttered mind, Of what, then, is an empty desk a sign?", "author": "Albert Einstein" }
 ]
